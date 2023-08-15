@@ -1,0 +1,1 @@
+This a proj for ec2 and VPC via terrform
